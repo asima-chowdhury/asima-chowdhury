@@ -10,4 +10,4 @@ Hi there I'm Asima 👋
 ---
 
 ### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/asima-chowdhury/) || [Email](asimachowdhury.lu@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/asima-chowdhury/) || [Email](asimachowdhury.lu@gmail.com) || [Resume](https://drive.google.com/file/d/1xRlor0HeZUUoItJvUu3Y5ctGoRRrN50Y/view) 
