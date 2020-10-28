@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there I'm Asima 👋
+---
+## Web Developer & JavaScript Lover !!
 
-<!--
-**asima-chowdhury/asima-chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently learning from [Programming Hero](https://www.programming-hero.com/) !!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Learn JS, React.js, Node.js & so many projects
+- ⚡ Fun fact: I love to painting and travelling
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[LinkedIn](https://www.linkedin.com/in/asima-chowdhury/) || [Email](asimachowdhury.lu@gmail.com)  
