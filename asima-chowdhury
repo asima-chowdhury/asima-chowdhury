@@ -9,5 +9,23 @@ Hi there I'm Asima 👋
 
 ---
 
-### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/asima-chowdhury/) || [Email](asimachowdhury.lu@gmail.com) || [Resume](https://drive.google.com/file/d/1xRlor0HeZUUoItJvUu3Y5ctGoRRrN50Y/view) 
+## 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/asima-chowdhury/) || [Email](asimachowdhury.lu@gmail.com) 
+
+## My Resume:
+[Resume](https://drive.google.com/file/d/1xRlor0HeZUUoItJvUu3Y5ctGoRRrN50Y/view) 
+
+📕 Latest Projects:
+ ⚡ [Creative Agency](https://a-creative-agency.web.app/) 
+  --Built a MERN stack web application with a dynamic service section and feedback section. Here client & admin separate dashboard available.
+  Features:
+  - Built a MERN stack web application with a dynamic volunteer activities
+  - A volunteer can sign in with Google
+  - Volunteer can choose activities for a specific date
+  - Volunteer can see their registered task in their event dashboard
+  - An admin can add new volunteer work which will be visible in the activities section
+  - An admin also can see the registered volunteers list with detailed information
+
+  Technology Used:
+  React.js, Node.js, Express.js, MongoDB, REST API, React Router, Firebase, Bootstrap, Heroku
+  
