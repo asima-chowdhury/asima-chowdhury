@@ -13,10 +13,14 @@ Hi there I'm Asima 👋
 
 ---
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asima-chowdhury&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="asima-chowdhury"/>
-<img alt="Asima's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asima-chowdhury&show_icons=true&hide_border=true&theme=tokyonight"/>
-</p>
-
-### Connect with me:
+## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/asima-chowdhury/) || [Email](asimachowdhury.lu@gmail.com) || [Resume](https://drive.google.com/file/d/1xRlor0HeZUUoItJvUu3Y5ctGoRRrN50Y/view)  
+
+---
+
+## ⭐ Github Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asima-chowdhury&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Asima's GitHub Stats" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asima-chowdhury&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="asima-chowdhury" /></p>
+
