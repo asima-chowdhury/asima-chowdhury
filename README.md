@@ -4,7 +4,7 @@ Hi there I'm Asima 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asima-chowdhury&label=Profile%20views&color=129e00&style=plastic" alt="asima-chowdhury" /> </p>
 
 ---
-- 🔭 I'm currently learning from everywhere!!
+- 🔭 I'm currently learning web development!!
 - 🌱 I’m currently learning everything 🤣
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🥅 2021 goals: Learn JS, React.js, Node.js, Express.js & so many projects.
