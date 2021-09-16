@@ -30,8 +30,8 @@ Hi there I'm Asima 👋
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=00C7B7)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=ffffff&labelColor=430098)
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&logoColor=ffffff&labelColor=00C7B7)
 
 
 
