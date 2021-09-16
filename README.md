@@ -10,7 +10,6 @@ Hi there I'm Asima 👋
 - 🥅 2021 goals: Learn Node.js, Express.js, TypeScript & so many projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asima-chowdhury/) || [Email](asimachowdhury.lu@gmail.com)
 - ⚡ Fun fact: I love to painting and travelling
-- 🌐 You can see some of my projects on [my portfolio](https://asima-chowdhury.github.io/Portfolio).
 
 
 ### 💻 Languages and Tools:
