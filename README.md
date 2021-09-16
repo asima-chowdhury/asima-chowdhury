@@ -34,9 +34,9 @@ Hi there I'm Asima 👋
 
 
 
-### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/asima-chowdhury/) || [Email](asimachowdhury.lu@gmail.com)
-
+### 📫 Connect with me:
+[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:asimachowdhury.lu@gmail.com)
+[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/asima-chowdhury/)
 ---
 
 ### ⭐ Github Stats
