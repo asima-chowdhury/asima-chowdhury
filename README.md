@@ -7,7 +7,7 @@ Hi there I'm Asima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 - 🔭 I'm currently learning web development!!
 - 🌱 I’m currently learning everything 🤣
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🥅 2021 goals: Learn Node.js, Express.js, TypeScript & so many projects.
+- 🥅 2022 goals: Learning....
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asima-chowdhury/) || [Email](mailto:asimachowdhury.lu@gmail.com)
 - ⚡ Fun fact: I love to painting and travelling
 
