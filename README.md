@@ -1,6 +1,6 @@
 Hi there I'm Asima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 ---
-## Web Developer & JavaScript Lover !!
+## Frontend Developer & JavaScript Lover !!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asima-chowdhury&label=Profile%20views&color=129e00&style=plastic" alt="asima-chowdhury" /> </p>
 
 ---
