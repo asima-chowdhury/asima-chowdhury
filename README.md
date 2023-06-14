@@ -42,7 +42,7 @@ Hi there I'm Asima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asima-chowdhury&show_icons=true&theme=tokyonight&locale=en" alt="Asima's GitHub Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asima-chowdhury&show_icons=true&theme=tokyonight&hide_border=true" alt="Asima's GitHub Stats"/></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asima-chowdhury&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asima-chowdhury&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="asima-chowdhury" /></p>
 
