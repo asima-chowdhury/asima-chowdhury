@@ -11,7 +11,7 @@ Hi there I'm Asima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 - ⚡ Fun fact: I love painting🎨 and traveling🏖️
 
 
-### 💻 Languages and Tools:
+### 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
@@ -41,6 +41,8 @@ Hi there I'm Asima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 ### ⭐ Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asima-chowdhury&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Asima's GitHub Stats" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asima-chowdhury&show_icons=true&theme=tokyonight&title_color=3cb480&hide_border=true" alt="Asima's GitHub Stats"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asima-chowdhury&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="asima-chowdhury" /></p>
 
