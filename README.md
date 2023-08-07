@@ -35,7 +35,7 @@ Hi there I'm Asima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 
 ### 📫 Connect with me:
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:asimachowdhury.lu@gmail.com)
-[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/asima-chowdhury/)
+[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/asima-chowdhury/)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@asimachowdhury.lu) 
 ---
 
 ### ⭐ Github Stats
