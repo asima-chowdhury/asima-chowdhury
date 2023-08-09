@@ -2,6 +2,7 @@ Hi there I'm Asima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asima-chowdhury&label=Profile%20views&color=129e00&style=plastic" alt="asima-chowdhury" /> </p>
 
+
 ---
 - 🔭 I'm currently learning web development!!
 - 🌱 I’m currently learning everything 🤣
@@ -37,6 +38,7 @@ Hi there I'm Asima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:asimachowdhury.lu@gmail.com)
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/asima-chowdhury/)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@asimachowdhury.lu) 
 ---
+
 
 ### ⭐ Github Stats
 
